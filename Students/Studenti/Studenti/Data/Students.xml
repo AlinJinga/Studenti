@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+
+	<Student Id="1" FirstName="Ion" LastName="Vasile" Sex="M" DateofBirth="01/01/2000" Address="Strada Liniei nr 44">
+		Este student eminent	
+	</Student>
+	<Student Id="2" FirstName="Andra" LastName="Popescu" Sex="F" DateofBirth="02/04/1995" Address="Bld Iuliu Maniu 6e">
+		-
+	</Student>
+	<Student Id="2" FirstName="Popescu" LastName="Cristian" Sex="M" DateofBirth="03/05/2002" Address="Bld Timisoara 8A">
+		Este din Pitesti
+	</Student>
+	<Student Id="3" FirstName="Marin" LastName="Georgiana" Sex="F" DateofBirth="02/02/2000" Address="Strada Apusului nr 50">
+		Repeta un an
+	</Student>
+	<Student Id="4" FirstName="Tomescu" LastName="Ana" Sex="F" DateofBirth="05/05/2001" Address="Strada Preciziei nr 20">
+		Este student la a doua facultate
+	</Student>
+
+
+</Students>

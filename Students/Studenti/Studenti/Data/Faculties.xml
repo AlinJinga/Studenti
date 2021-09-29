@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Faculties>
+
+	<Faculty Id="1" Name="Cibernetica Economica" FoundingYear="1980" >
+		Produce studenti care se ocupa de contabilitate
+	</Faculty>
+		<Faculty Id="2" Name="Informatica Economica" FoundingYear="1985"  >
+		Produce studenti care se ocupa de informatica si economie
+	</Faculty>
+		<Faculty Id="3" Name="Statistica Economica" FoundingYear="1990" >
+		Produce studenti care se ocupa de statistica
+	</Faculty>
+		<Faculty Id="4" Name="Automatica si Calculatoare" FoundingYear="1975"  >
+		Produce studenti care se ocupa de informatica
+	</Faculty>
+	<Faculty Id="50" Name="Electronica" FoundingYear="1970" >
+		Produce ingineri
+	</Faculty>
+
+
+</Faculties>

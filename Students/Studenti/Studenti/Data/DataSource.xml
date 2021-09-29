@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+	<Faculties>
+
+		<Faculty Id="1" Name="Cibernetica Economica" FoundingYear="1980" >
+			Produce studenti care se ocupa de contabilitate
+		</Faculty>
+		<Faculty Id="2" Name="Informatica Economica" FoundingYear="1985"  >
+			Produce studenti care se ocupa de informatica si economie
+		</Faculty>
+		<Faculty Id="3" Name="Statistica Economica" FoundingYear="1990" >
+			Produce studenti care se ocupa de statistica
+		</Faculty>
+		<Faculty Id="4" Name="Automatica si Calculatoare" FoundingYear="1975"  >
+			Produce studenti care se ocupa de informatica
+		</Faculty>
+		<Faculty Id="50" Name="Electronica" FoundingYear="1970" >
+			Produce ingineri
+		</Faculty>
+
+
+	</Faculties>
+	
+	<StudentGroups>
+
+		<StudentGroup Id="1" Faculty="Cibernetica Economica" Name="1360" Year="1" >
+			Grupa de olimpici
+		</StudentGroup>
+		<StudentGroup Id="2" Faculty="Cibernetica Economica" Name="1440" Year="2" >
+			Grupa defavorizata
+		</StudentGroup>
+		<StudentGroup Id="3" Faculty="Cibernetica Economica" Name="1880" Year="3" >
+			Grupa de informatica
+		</StudentGroup>
+		<StudentGroup Id="4" Faculty="Cibernetica Economica" Name="1350" Year="1" >
+			Grupa de matematica
+		</StudentGroup>
+		<StudentGroup Id="5" Faculty="Cibernetica Economica" Name="1550" Year="2" >
+			Grupa de economie
+		</StudentGroup>
+
+
+	</StudentGroups>
+	<Students>
+
+		<Student Id="1" FirstName="Ion" LastName="Vasile" Sex="M" DateofBirth="01/01/2000" Address="Strada Liniei nr 44">
+			Este student eminent
+		</Student>
+		<Student Id="2" FirstName="Andra" LastName="Popescu" Sex="F" DateofBirth="02/04/1995" Address="Bld Iuliu Maniu 6e">
+			-
+		</Student>
+		<Student Id="2" FirstName="Popescu" LastName="Cristian" Sex="M" DateofBirth="03/05/2002" Address="Bld Timisoara 8A">
+			Este din Pitesti
+		</Student>
+		<Student Id="3" FirstName="Marin" LastName="Georgiana" Sex="F" DateofBirth="02/02/2000" Address="Strada Apusului nr 50">
+			Repeta un an
+		</Student>
+		<Student Id="4" FirstName="Tomescu" LastName="Ana" Sex="F" DateofBirth="05/05/2001" Address="Strada Preciziei nr 20">
+			Este student la a doua facultate
+		</Student>
+
+
+	</Students>
+</Data>

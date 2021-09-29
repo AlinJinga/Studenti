@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studenti", "Students\Studenti\Studenti\Studenti.csproj", "{B35C3AD7-06EB-4514-9136-7EBF22F84123}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studenti.Model", "Students\Studenti\Studenti.Model\Studenti.Model.csproj", "{8052986F-21CA-4AEF-B8F2-8800469F0DAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studenti.DAL", "Students\Studenti\Studenti.DAL\Studenti.DAL.csproj", "{D286BB51-465E-473D-9CE4-3650BE4F6395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35C3AD7-06EB-4514-9136-7EBF22F84123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35C3AD7-06EB-4514-9136-7EBF22F84123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35C3AD7-06EB-4514-9136-7EBF22F84123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35C3AD7-06EB-4514-9136-7EBF22F84123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8052986F-21CA-4AEF-B8F2-8800469F0DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8052986F-21CA-4AEF-B8F2-8800469F0DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8052986F-21CA-4AEF-B8F2-8800469F0DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8052986F-21CA-4AEF-B8F2-8800469F0DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D286BB51-465E-473D-9CE4-3650BE4F6395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D286BB51-465E-473D-9CE4-3650BE4F6395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D286BB51-465E-473D-9CE4-3650BE4F6395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D286BB51-465E-473D-9CE4-3650BE4F6395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA561118-7EF6-42E0-9B15-DD4EC2E75B71}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pointertech.visualstudio.com/
+		SccProjectUniqueName0 = Students\\Studenti\\Studenti.DAL\\Studenti.DAL.csproj
+		SccProjectName0 = Students/Studenti/Studenti.DAL
+		SccLocalPath0 = Students\\Studenti\\Studenti.DAL
+		SccProjectUniqueName1 = Students\\Studenti\\Studenti.Model\\Studenti.Model.csproj
+		SccProjectName1 = Students/Studenti/Studenti.Model
+		SccLocalPath1 = Students\\Studenti\\Studenti.Model
+		SccProjectUniqueName2 = Students\\Studenti\\Studenti\\Studenti.csproj
+		SccProjectName2 = Students/Studenti/Studenti
+		SccLocalPath2 = Students\\Studenti\\Studenti
+		SccLocalPath3 = .
+	EndGlobalSection
+EndGlobal

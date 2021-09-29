@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentGroups>
+
+	<StudentGroup Id="1" Faculty="Cibernetica Economica" Name="1360" Year="1" >
+		Grupa de olimpici
+	</StudentGroup>
+	<StudentGroup Id="2" Faculty="Cibernetica Economica" Name="1440" Year="2" >
+		Grupa defavorizata
+	</StudentGroup>
+	<StudentGroup Id="3" Faculty="Cibernetica Economica" Name="1880" Year="3" >
+		Grupa de informatica
+	</StudentGroup>
+	<StudentGroup Id="4" Faculty="Cibernetica Economica" Name="1350" Year="1" >
+		Grupa de matematica
+	</StudentGroup>
+	<StudentGroup Id="5" Faculty="Cibernetica Economica" Name="1550" Year="2" >
+		Grupa de economie
+	</StudentGroup>
+
+
+</StudentGroups>
